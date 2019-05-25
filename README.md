@@ -14,5 +14,4 @@
 
 - [appscope](https://appsco.pe/) 
 - [pwaroom](http://progressivewebapproom.com/) 
-
 - [pwarocks](https://pwa.rocks/) 
